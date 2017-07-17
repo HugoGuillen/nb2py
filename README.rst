@@ -1,7 +1,7 @@
 nb2py
 =====
 
-Dumps marked code cells from a Jupyter notebook into a single .py file.
+Dumps marked code cells from a Jupyter notebook into a text file.
 
 Features
 --------
@@ -29,7 +29,8 @@ Usage
 Notes: check that you saved your notebook before you use ``dump`` to see
 the changes!
 
-For examples, check the `tutorial <tutorial.ipynb>`__.
+For examples, check the
+`tutorial <https://github.com/HugoGuillen/nb2py/blob/master/tutorial.ipynb>`__.
 
 Credits
 -------
